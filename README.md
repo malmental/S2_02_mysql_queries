@@ -1,4 +1,5 @@
-# Modulo 2 SQL y DB  
+# Sprint 2:
+   SQL y MongoDB  
   **Descripción**: Repo creado para Tasca 2.  
   
   ## 🛠 Tecnologies  
