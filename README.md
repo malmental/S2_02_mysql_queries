@@ -1,5 +1,5 @@
 # Sprint 2:
-   SQL y MongoDB  
+  Queries SQL y MongoDB  
   **Descripción**: Repo creado para Tasca 2.  
   
   ## 🛠 Tecnologies  
